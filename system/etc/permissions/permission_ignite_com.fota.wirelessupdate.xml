@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<permissions>
+  <privapp-permissions package="com.adups.fota">
+    <permission name="android.permission.ACCESS_CACHE_FILESYSTEM"/>
+    <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
+    <permission name="android.permission.INSTALL_PACKAGES"/>
+    <permission name="android.permission.DELETE_CACHE_FILES"/>
+    <permission name="android.permission.DELETE_PACKAGES"/>
+    <permission name="android.permission.REBOOT"/>
+    <permission name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <permission name="android.permission.PACKAGE_USAGE_STATS"/>
+    <permission name="android.permission.RECOVERY"/>
+  </privapp-permissions>
+</permissions>

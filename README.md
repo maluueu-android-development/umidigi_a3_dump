@@ -1,0 +1,14 @@
+# A3-user 8.1.0 O11019 1541509958 release-keys
+- manufacturer: umidigi
+- platform: mt6739
+- codename: A3
+- flavor: A3-user
+- release: 8.1.0
+- id: O11019
+- incremental: 1541509958
+- tags: release-keys
+- fingerprint: UMIDIGI/A3/A3:8.1.0/O11019/1541509958:user/release-keys
+- is_ab: false
+- brand: UMIDIGI
+- branch: thisisnew
+- repo: umidigi_a3_dump

@@ -1,0 +1,15 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Thu Mar 21 11:49:29 CST 2019
+ro.bootimage.build.date.utc=1553140169
+ro.bootimage.build.fingerprint=UMIDIGI/A3/A3:8.1.0/O11019/1541509958:user/release-keys
+persist.sys.usb.config=none
